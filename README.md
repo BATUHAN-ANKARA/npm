@@ -1,18 +1,18 @@
-# Venus Layers Generator
+#Venus Layers Generator
 
-Venus Layers Generator, katmanlı bir Node.js projesi oluşturmak için basit bir komut satırı aracıdır.
+Venus Layers Generator is a simple command line tool for creating a layered Node.js project.
 
-## Kurulum
+## Setup
 
-Paketi global olarak yükleyin:
+Install the package globally:
 
 ```bash
 npm install -g venus-layers-generator
 ```
 
-## Kullanım
+## Use
 
-Projenizin kök dizininde terminali açın ve aşağıdaki komutu çalıştırarak standart katman yapısını oluşturun:
+Open terminal in the root directory of your project and create the standard layer structure by running the following command:
 
 ```bash
 venus create-layers
