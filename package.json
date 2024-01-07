@@ -1,6 +1,6 @@
 {
   "name": "venus-layers-generator",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Create standard layers structure CLI package",
   "main": "index.js",
   "scripts": {
